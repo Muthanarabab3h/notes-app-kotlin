@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">مذكرات</string>
+    <string name="notes">مذكراتي</string>
+    <string name="notes_title">عنوان المذكره</string>
+    <string name="notes_sub_title">العنوان المساعد</string>
+    <string name="notes_desc">اكتب المذكره هنا</string>
+    <string name="web_url">ادخل رابط</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">الغاء</string>
+    <string name="storage_permission_text">هذا التطبيق يحتاج للوصول الى سعة التخزين</string>
+    <string name="search">ابحث في مذكراتك</string>
+    <string name="hello_blank_fragment">مرحبا!</string>
+</resources>
